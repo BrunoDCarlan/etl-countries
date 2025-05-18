@@ -1,0 +1,43 @@
+# Arquivos gerados por build
+/target/
+/build/
+/dist/
+*.class
+
+# IDEs
+## IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+## Eclipse / Spring Tool Suite (STS)
+.classpath
+.project
+.settings/
+.apt_generated/
+.factorypath
+.springBeans/
+.sts4-cache/
+
+## NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/nbproject/ (opcional se não usar o projeto gerado pelo NetBeans)
+/.nb-gradle/
+
+## VS Code
+.vscode/
+
+# Maven Wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# Arquivos de build internos (já cobertos acima, mas se quiser manter o controle por subpastas)
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Arquivos auxiliares
+HELP.md

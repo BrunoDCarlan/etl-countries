@@ -22,14 +22,16 @@ public class EtlService {
 
     private static final String API_URL = "https://restcountries.com/v3.1/all";
     private static final String RAW_DIR = "raw_data/";
+    private static final String RAW_DIR_FULL = "raw_data_full/";
     private static final String MDM_URL = "http://localhost:8080/countries";
 
     public String downloadAndStoreJsonChunks() throws IOException {
+        Files.createDirectories(Paths.get(RAW_DIR_FULL));
         Files.createDirectories(Paths.get(RAW_DIR));
 
         String jsonString = restTemplate.getForObject(API_URL, String.class);
 
-        Path rawFilePath = Paths.get(RAW_DIR + "countries_raw.json");
+        Path rawFilePath = Paths.get(RAW_DIR_FULL + "countries_raw.json");
         Files.writeString(rawFilePath, jsonString);
 
         List<Country> countries = objectMapper.readValue(jsonString, new TypeReference<>() {});

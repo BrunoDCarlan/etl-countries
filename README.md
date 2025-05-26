@@ -24,15 +24,41 @@ Este projeto representa o módulo de ETL (Extract, Transform, Load) responsável
 etl/
 ├── controller/
 │   └── EtlController.java
+├── dto/
+│   └── MdmCountryDTO.java
+│   └── MdmCurrencyDTO.java
+├── exception/
+│   └── GlobalExceptionHandler.java
+├── mapper/
+│   └── EtlToMdmTransformer.java
 ├── model/
+│   └── CapitalInfo.java
 │   └── Country.java
+│   └── Name.java
 ├── service/
 │   └── EtlService.java
-├── transformer/
-│   └── EtlToMdmTransformer.java
 └── EtlApplication.java
 ```
 
+## Estrutura de Dados Enviada ao MDM
+
+### Exemplo de JSON enviado:
+```json
+{
+  "countryName": "Brazil",
+  "numericCode": 076,
+  "capitalCity": "Brasília",
+  "population": 211000000,
+  "area": 8515767.0,
+  "currencies": [
+    {
+      "currencyCode": "BRL",
+      "currencyName": "Brazilian real",
+      "currencySymbol": "R$"
+    }
+  ]
+}
+```
 ## Dependências
 
 - Spring Boot

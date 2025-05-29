@@ -13,10 +13,16 @@ Este projeto representa o módulo de ETL (Extract, Transform, Load) responsável
 
 ## Endpoints
 
-| Método | Rota             | Descrição                                |
-|--------|------------------|------------------------------------------|
-| GET    | `/etl/start`     | Realiza o download e armazenamento dos dados |
-| GET    | `/etl/load`      | Lê os arquivos locais e envia ao MDM     |
+| Método | Rota                         | Descrição                                    |
+|--------|------------------------------|----------------------------------------------|
+| GET    | `/etl/download/{providerId}` | Realiza o download e armazenamento dos dados |
+| GET    | `/etl/load`                  | Lê os arquivos locais e envia ao MDM         |
+| GET    | `/etl/downloads`             | Retorna a lista de downloads                 |
+| GET    | `/etl/providers`             | Retorna a lista de providers                 |
+| GET    | `/etl/providers/{id}`        | Retorna o provider especificado              |
+| POST   | `/etl/providers`             | Cadastra um novo provider                    |
+| PUT    | `/etl/providers/{id}`        | Atualiza o provider especificado             |
+| DELETE | `/etl/providers/{id}`        | Deleta o provider especificado               |
 
 ## Estrutura de Diretórios
 
@@ -24,6 +30,7 @@ Este projeto representa o módulo de ETL (Extract, Transform, Load) responsável
 etl/
 ├── controller/
 │   └── EtlController.java
+|   └── ProviderController.java
 ├── dto/
 │   └── MdmCountryDTO.java
 │   └── MdmCurrencyDTO.java
@@ -34,9 +41,15 @@ etl/
 ├── model/
 │   └── CapitalInfo.java
 │   └── Country.java
+│   └── Download.java
 │   └── Name.java
+│   └── Provider.java
+├── repository/
+│   └── DownloadRepository.java
+│   └── ProviderRepository.java
 ├── service/
 │   └── EtlService.java
+│   └── ProviderService.java
 └── EtlApplication.java
 ```
 
@@ -59,16 +72,29 @@ etl/
   ]
 }
 ```
+
+### Exemplo de JSON para cadastrar provider:
+```json
+{
+  "providerName": "Provider_name"
+}
+```
+
 ## Dependências
 
 - Spring Boot
 - Jackson
 - RestTemplate
+- Spring Data JPA
+- PostgreSQL Driver
+- Lombok
+- Hibernate
 
 ## Execução
 
 1. Suba o MDM (porta 8080)
 2. Inicie este projeto (porta 8081)
-3. Acesse `http://localhost:8081/etl/start` para baixar e salvar os dados
-4. Acesse `http://localhost:8081/etl/load` para enviá-los ao MDM
+3. Cadastre um provider `http://localhost:8081/etl/providers` com JSON informando nome
+4. Acesse `http://localhost:8081/etl/download` para baixar e salvar os dados
+5. Acesse `http://localhost:8081/etl/load` para enviá-los ao MDM
 

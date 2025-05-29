@@ -90,11 +90,36 @@ etl/
 - Lombok
 - Hibernate
 
+### Diagrama da Tabela `provider`
+
+| Coluna        | Tipo             | Descrição                      |
+| ------------- | ---------------- | ------------------------------ |
+| provider\_id  | BIGSERIAL        | Chave primária                 |
+| provider\_name| VARCHAR          | Nome do provider               |
+| created\_at   | TIMESTAMP        | Data de criação do registro    |
+| updated\_at   | TIMESTAMP        | Data da última atualização     |
+
+### Diagrama da Tabela `download`
+
+| Coluna           | Tipo        | Descrição                      |
+| ---------------- | ----------- | ------------------------------ |
+| download\_id     | BIGSERIAL   | Chave primária                 |
+| provider\_id     | INTEGER     | Código do provider             |
+| downloaded\_at   | TIMESTAMP   | Data de download               |
+| raw\_file\_path  | VARCHAR     | Via do arquivo raw baixado     |
+
+## Banco de Dados
+
+Banco: PostgreSQL  
+
+📄 [Download do .sql de criação da tabela `provider` e `download`](docs/db.sql)
+
 ## Execução
 
-1. Suba o MDM (porta 8080)
-2. Inicie este projeto (porta 8081)
-3. Cadastre um provider `http://localhost:8081/etl/providers` com JSON informando nome
-4. Acesse `http://localhost:8081/etl/download` para baixar e salvar os dados
-5. Acesse `http://localhost:8081/etl/load` para enviá-los ao MDM
+1. Crie o banco e a tabela conforme o modelo da entidade
+2. Suba o MDM (porta 8080)
+3. Inicie este projeto (porta 8081)
+4. Cadastre um provider `http://localhost:8081/etl/providers` com JSON informando nome
+5. Acesse `http://localhost:8081/etl/download` para baixar e salvar os dados
+6. Acesse `http://localhost:8081/etl/load` para enviá-los ao MDM
 

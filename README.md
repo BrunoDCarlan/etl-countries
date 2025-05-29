@@ -13,16 +13,16 @@ Este projeto representa o módulo de ETL (Extract, Transform, Load) responsável
 
 ## Endpoints
 
-| Método | Rota                         | Descrição                                    |
-|--------|------------------------------|----------------------------------------------|
-| GET    | `/etl/download/{providerId}` | Realiza o download e armazenamento dos dados |
-| GET    | `/etl/load`                  | Lê os arquivos locais e envia ao MDM         |
-| GET    | `/etl/downloads`             | Retorna a lista de downloads                 |
-| GET    | `/etl/providers`             | Retorna a lista de providers                 |
-| GET    | `/etl/providers/{id}`        | Retorna o provider especificado              |
-| POST   | `/etl/providers`             | Cadastra um novo provider                    |
-| PUT    | `/etl/providers/{id}`        | Atualiza o provider especificado             |
-| DELETE | `/etl/providers/{id}`        | Deleta o provider especificado               |
+| Método | Rota                         | Descrição                                                        |
+|--------|------------------------------|------------------------------------------------------------------|
+| GET    | `/etl/download/{providerId}` | Realiza o download e armazenamento dos dados                     |
+| GET    | `/etl/sync/{id}?mdmUrl=`     | Sincroniza os registros do MDM, a partir do download identificad |
+| GET    | `/etl/downloads`             | Retorna a lista de downloads                                     |
+| GET    | `/etl/providers`             | Retorna a lista de providers                                     |
+| GET    | `/etl/providers/{id}`        | Retorna o provider especificado                                  |
+| POST   | `/etl/providers`             | Cadastra um novo provider                                        |
+| PUT    | `/etl/providers/{id}`        | Atualiza o provider especificado                                 |
+| DELETE | `/etl/providers/{id}`        | Deleta o provider especificado                                   |
 
 ## Estrutura de Diretórios
 

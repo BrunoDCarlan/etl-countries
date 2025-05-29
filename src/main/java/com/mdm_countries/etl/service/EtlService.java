@@ -31,7 +31,6 @@ public class EtlService {
     private static final String API_URL = "https://restcountries.com/v3.1/all";
     private static final String RAW_DIR = "raw_data/";
     private static final String RAW_DIR_FULL = "raw_data_full/";
-    private static final String MDM_URL = "http://localhost:8080/countries";
 
     public EtlService(DownloadRepository downloadRepository, ProviderRepository providerRepository) {
         this.downloadRepository = downloadRepository;
@@ -86,21 +85,22 @@ public class EtlService {
     }
 
 
-    public String loadAllJsonToMdm() throws IOException {
-        File dir = new File(RAW_DIR);
-        File[] files = dir.listFiles((d, name) -> name.endsWith(".json"));
-        if (files == null) return "Nenhum arquivo encontrado";
+    public String loadAllJsonToMdm(Long downloadId, String mdmUrl) throws IOException {
+        Download download = downloadRepository.findById(downloadId)
+            .orElseThrow(() -> new IllegalArgumentException("Download not found with ID: " + downloadId));
+
+        File rawFile = new File(download.getRawFilePath());
 
         int totalEnviados = 0;
 
-        for (File file : files) {
-            List<Country> countries = objectMapper.readValue(file, new TypeReference<>() {});
-            for (Country etlCountry : countries) {
-                MdmCountryDTO dto = EtlToMdmTransformer.transform(etlCountry);
-                restTemplate.postForEntity(MDM_URL, dto, String.class);
-                totalEnviados++;
-            }
+        List<Country> countries = objectMapper.readValue(rawFile, new TypeReference<>() {});
+        for (Country etlCountry : countries) {
+            totalEnviados++;
+            MdmCountryDTO dto = EtlToMdmTransformer.transform(etlCountry);
+            dto.setCountryId(totalEnviados);
+            restTemplate.postForEntity(mdmUrl, dto, String.class);
         }
+
         return "Total de países enviados ao MDM: " + totalEnviados;
     }
 

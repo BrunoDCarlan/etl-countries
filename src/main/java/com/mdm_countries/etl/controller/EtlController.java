@@ -23,9 +23,9 @@ public class EtlController {
         return etlService.downloadAndStoreJsonChunks(providerId);
     }
 
-    @GetMapping("/load")
-    public String loadETLToMdm() throws Exception {
-        return etlService.loadAllJsonToMdm();
+    @GetMapping("/sync/{downloadId}")
+    public String syncETLToMdm(@PathVariable Long downloadId, @RequestParam String mdmUrl) throws Exception {
+        return etlService.loadAllJsonToMdm(downloadId, mdmUrl);
     }
 
     @GetMapping("/downloads")

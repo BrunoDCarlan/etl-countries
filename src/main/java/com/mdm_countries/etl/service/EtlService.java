@@ -38,8 +38,6 @@ public class EtlService {
     }
 
     public String downloadAndStoreJsonChunks(Long providerId) throws IOException {
-
-
         Provider provider = providerRepository.findById(providerId)
             .orElseThrow(() -> new IllegalArgumentException("Provider not found with ID: " + providerId));
 
@@ -53,7 +51,7 @@ public class EtlService {
         Files.createDirectories(Paths.get(RAW_DIR_FULL));
         Files.createDirectories(Paths.get(RAW_DIR));
 
-        String jsonString = restTemplate.getForObject(API_URL, String.class);
+        String jsonString = restTemplate.getForObject(provider.getProviderUrl(), String.class);
 
         Path rawFilePath = Paths.get(RAW_DIR_FULL + rawFileName);
         Files.writeString(rawFilePath, jsonString);

@@ -14,7 +14,11 @@ public class Provider {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long providerId;
 
+    @Column(nullable = false)
     private String providerName;
+
+    @Column(nullable = false)
+    private String providerUrl;
 
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;

@@ -1,0 +1,4945 @@
+[
+  {
+    "name": {
+      "common": "Eritrea",
+      "official": "State of Eritrea"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": 117600.0,
+    "population": 5352000,
+    "fifa": "ERI",
+    "capital": [
+      "Asmara"
+    ],
+    "tld": [
+      ".er"
+    ],
+    "altSpellings": [
+      "ER",
+      "State of Eritrea",
+      "ሃገረ ኤርትራ",
+      "Dawlat Iritriyá",
+      "ʾErtrā",
+      "Iritriyā"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English",
+      "tir": "Tigrinya"
+    },
+    "currencies": {
+      "ERN": {
+        "symbol": "Nfk",
+        "name": "Eritrean nakfa"
+      }
+    },
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/er.png",
+      "svg": "https://flagcdn.com/er.svg",
+      "alt": "The flag of Eritrea comprises three triangles — a large red isosceles triangle with its base spanning the hoist end and its apex at the midpoint on the fly end, and a green and blue right-angled triangle above and beneath the red triangle. On the hoist side of the red triangle is a golden vertical olive branch encircled by a golden olive wreath."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/er.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/er.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/296961"
+    },
+    "car": {
+      "signs": [
+        "ER"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "91"
+      ]
+    },
+    "latlng": [
+      15.0,
+      39.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        15.33,
+        38.93
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Eritrean",
+        "m": "Eritrean"
+      },
+      "fra": {
+        "f": "Érythréenne",
+        "m": "Érythréen"
+      }
+    },
+    "cca2": "ER",
+    "ccn3": "232",
+    "cioc": "ERI",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Cameroon",
+      "official": "Republic of Cameroon"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": 475442.0,
+    "population": 26545864,
+    "fifa": "CMR",
+    "capital": [
+      "Yaoundé"
+    ],
+    "tld": [
+      ".cm"
+    ],
+    "altSpellings": [
+      "CM",
+      "Republic of Cameroon",
+      "République du Cameroun"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    },
+    "borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cm.png",
+      "svg": "https://flagcdn.com/cm.svg",
+      "alt": "The flag of Cameroon is composed of three equal vertical bands of green, red and yellow, with a yellow five-pointed star in the center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cm.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JqiipHgFboG3rBJh9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192830"
+    },
+    "car": {
+      "signs": [
+        "CAM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "37"
+      ]
+    },
+    "latlng": [
+      6.0,
+      12.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        3.85,
+        11.5
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Cameroonian",
+        "m": "Cameroonian"
+      },
+      "fra": {
+        "f": "Camerounaise",
+        "m": "Camerounais"
+      }
+    },
+    "cca2": "CM",
+    "ccn3": "120",
+    "cioc": "CMR",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Montenegro",
+      "official": "Montenegro"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": 13812.0,
+    "population": 621718,
+    "fifa": "MNE",
+    "capital": [
+      "Podgorica"
+    ],
+    "tld": [
+      ".me"
+    ],
+    "altSpellings": [
+      "ME",
+      "Crna Gora"
+    ],
+    "languages": {
+      "cnr": "Montenegrin"
+    },
+    "currencies": {
+      "EUR": {
+        "symbol": "€",
+        "name": "Euro"
+      }
+    },
+    "borders": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "UNK",
+      "SRB"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/me.png",
+      "svg": "https://flagcdn.com/me.svg",
+      "alt": "The flag of Montenegro features a large red central rectangular area surrounded by a golden-yellow border. The coat of arms of Montenegro is centered in the red rectangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/me.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/me.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/53296"
+    },
+    "car": {
+      "signs": [
+        "SCG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "82"
+      ]
+    },
+    "latlng": [
+      42.5,
+      19.3
+    ],
+    "capitalInfo": {
+      "latlng": [
+        42.43,
+        19.27
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Montenegrin",
+        "m": "Montenegrin"
+      },
+      "fra": {
+        "f": "Monténégrine",
+        "m": "Monténégrin"
+      }
+    },
+    "cca2": "ME",
+    "ccn3": "499",
+    "cioc": "MNE",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Fiji",
+      "official": "Republic of Fiji"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "area": 18272.0,
+    "population": 896444,
+    "fifa": "FIJ",
+    "capital": [
+      "Suva"
+    ],
+    "tld": [
+      ".fj"
+    ],
+    "altSpellings": [
+      "FJ",
+      "Viti",
+      "Republic of Fiji",
+      "Matanitu ko Viti",
+      "Fijī Gaṇarājya"
+    ],
+    "languages": {
+      "eng": "English",
+      "fij": "Fijian",
+      "hif": "Fiji Hindi"
+    },
+    "currencies": {
+      "FJD": {
+        "symbol": "$",
+        "name": "Fijian dollar"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/fj.png",
+      "svg": "https://flagcdn.com/fj.svg",
+      "alt": "The flag of Fiji has a light blue field. It features the flag of the United Kingdom — the Union Jack — in the canton and the shield of the national coat of arms centered in the fly half."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/fj.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/fj.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/571747"
+    },
+    "car": {
+      "signs": [
+        "FJI"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "79"
+      ]
+    },
+    "latlng": [
+      -17.7134,
+      178.065
+    ],
+    "capitalInfo": {
+      "latlng": [
+        -18.13,
+        178.42
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Fijian",
+        "m": "Fijian"
+      },
+      "fra": {
+        "f": "Fidjienne",
+        "m": "Fidjien"
+      }
+    },
+    "cca2": "FJ",
+    "ccn3": "242",
+    "cioc": "FIJ",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Tunisia",
+      "official": "Tunisian Republic"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "area": 163610.0,
+    "population": 11818618,
+    "fifa": "TUN",
+    "capital": [
+      "Tunis"
+    ],
+    "tld": [
+      ".tn"
+    ],
+    "altSpellings": [
+      "TN",
+      "Republic of Tunisia",
+      "al-Jumhūriyyah at-Tūnisiyyah"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "TND": {
+        "symbol": "د.ت",
+        "name": "Tunisian dinar"
+      }
+    },
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tn.png",
+      "svg": "https://flagcdn.com/tn.svg",
+      "alt": "The flag of Tunisia has a red field. A white circle bearing a five-pointed red star within a fly-side facing red crescent is situated at the center of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tn.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192757"
+    },
+    "car": {
+      "signs": [
+        "TN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "16"
+      ]
+    },
+    "latlng": [
+      34.0,
+      9.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        36.8,
+        10.18
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Tunisian",
+        "m": "Tunisian"
+      },
+      "fra": {
+        "f": "Tunisienne",
+        "m": "Tunisien"
+      }
+    },
+    "cca2": "TN",
+    "ccn3": "788",
+    "cioc": "TUN",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Senegal",
+      "official": "Republic of Senegal"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": 196722.0,
+    "population": 16743930,
+    "fifa": "SEN",
+    "capital": [
+      "Dakar"
+    ],
+    "tld": [
+      ".sn"
+    ],
+    "altSpellings": [
+      "SN",
+      "Republic of Senegal",
+      "République du Sénégal"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    },
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sn.png",
+      "svg": "https://flagcdn.com/sn.svg",
+      "alt": "The flag of Senegal is composed of three equal vertical bands of green, golden-yellow and red, with a five-pointed green star centered in the golden-yellow band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sn.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192775"
+    },
+    "car": {
+      "signs": [
+        "SN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "21"
+      ]
+    },
+    "latlng": [
+      14.0,
+      -14.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        14.73,
+        -17.63
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Senegalese",
+        "m": "Senegalese"
+      },
+      "fra": {
+        "f": "Sénégalaise",
+        "m": "Sénégalais"
+      }
+    },
+    "cca2": "SN",
+    "ccn3": "686",
+    "cioc": "SEN",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "South Georgia",
+      "official": "South Georgia and the South Sandwich Islands"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Antarctic",
+    "subregion": null,
+    "area": 3903.0,
+    "population": 30,
+    "fifa": null,
+    "capital": [
+      "King Edward Point"
+    ],
+    "tld": [
+      ".gs"
+    ],
+    "altSpellings": [
+      "GS",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GBP": {
+        "symbol": "£",
+        "name": "British pound"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/gs.png",
+      "svg": "https://flagcdn.com/gs.svg"
+    },
+    "coatOfArms": {},
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1983629"
+    },
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-02:00"
+    ],
+    "continents": [
+      "Antarctica"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "00"
+      ]
+    },
+    "latlng": [
+      -54.5,
+      -37.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        -54.28,
+        -36.5
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "South Georgian South Sandwich Islander",
+        "m": "South Georgian South Sandwich Islander"
+      },
+      "fra": {
+        "f": "",
+        "m": ""
+      }
+    },
+    "cca2": "GS",
+    "ccn3": "239",
+    "cioc": null,
+    "unMember": false,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "South America",
+    "area": 8515767.0,
+    "population": 212559409,
+    "fifa": "BRA",
+    "capital": [
+      "Brasília"
+    ],
+    "tld": [
+      ".br"
+    ],
+    "altSpellings": [
+      "BR",
+      "Brasil",
+      "Federative Republic of Brazil",
+      "República Federativa do Brasil"
+    ],
+    "languages": {
+      "por": "Portuguese"
+    },
+    "currencies": {
+      "BRL": {
+        "symbol": "R$",
+        "name": "Brazilian real"
+      }
+    },
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/br.png",
+      "svg": "https://flagcdn.com/br.svg",
+      "alt": "The flag of Brazil has a green field with a large yellow rhombus in the center. Within the rhombus is a dark blue globe with twenty-seven small five-pointed white stars depicting a starry sky and a thin white convex horizontal band inscribed with the national motto 'Ordem e Progresso' across its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/br.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/br.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/59470"
+    },
+    "car": {
+      "signs": [
+        "BR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "5"
+      ]
+    },
+    "latlng": [
+      -10.0,
+      -55.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        -15.79,
+        -47.88
+      ]
+    },
+    "postalCode": {
+      "format": "#####-###",
+      "regex": "^(\\d{8})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Brazilian",
+        "m": "Brazilian"
+      },
+      "fra": {
+        "f": "Brésilienne",
+        "m": "Brésilien"
+      }
+    },
+    "cca2": "BR",
+    "ccn3": "076",
+    "cioc": "BRA",
+    "unMember": true,
+    "startOfWeek": "sunday"
+  },
+  {
+    "name": {
+      "common": "Liechtenstein",
+      "official": "Principality of Liechtenstein"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "area": 160.0,
+    "population": 38137,
+    "fifa": "LIE",
+    "capital": [
+      "Vaduz"
+    ],
+    "tld": [
+      ".li"
+    ],
+    "altSpellings": [
+      "LI",
+      "Principality of Liechtenstein",
+      "Fürstentum Liechtenstein"
+    ],
+    "languages": {
+      "deu": "German"
+    },
+    "currencies": {
+      "CHF": {
+        "symbol": "Fr",
+        "name": "Swiss franc"
+      }
+    },
+    "borders": [
+      "AUT",
+      "CHE"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/li.png",
+      "svg": "https://flagcdn.com/li.svg",
+      "alt": "The flag of Liechtenstein is composed of two equal horizontal bands of blue and red, with a golden-yellow crown on the hoist side of the blue band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/li.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/li.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
+    },
+    "car": {
+      "signs": [
+        "FL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "23"
+      ]
+    },
+    "latlng": [
+      47.26666666,
+      9.53333333
+    ],
+    "capitalInfo": {
+      "latlng": [
+        47.13,
+        9.52
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Liechtensteiner",
+        "m": "Liechtensteiner"
+      },
+      "fra": {
+        "f": "Liechtensteinoise",
+        "m": "Liechtensteinois"
+      }
+    },
+    "cca2": "LI",
+    "ccn3": "438",
+    "cioc": "LIE",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "North America",
+    "area": 1964375.0,
+    "population": 128932753,
+    "fifa": "MEX",
+    "capital": [
+      "Mexico City"
+    ],
+    "tld": [
+      ".mx"
+    ],
+    "altSpellings": [
+      "MX",
+      "Mexicanos",
+      "United Mexican States",
+      "Estados Unidos Mexicanos"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "MXN": {
+        "symbol": "$",
+        "name": "Mexican peso"
+      }
+    },
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mx.png",
+      "svg": "https://flagcdn.com/mx.svg",
+      "alt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mx.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mx.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
+    },
+    "car": {
+      "signs": [
+        "MEX"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "2"
+      ]
+    },
+    "latlng": [
+      23.0,
+      -102.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        19.43,
+        -99.13
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Mexican",
+        "m": "Mexican"
+      },
+      "fra": {
+        "f": "Mexicaine",
+        "m": "Mexicain"
+      }
+    },
+    "cca2": "MX",
+    "ccn3": "484",
+    "cioc": "MEX",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Palestine",
+      "official": "State of Palestine"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 6220.0,
+    "population": 4803269,
+    "fifa": "PLE",
+    "capital": [
+      "Ramallah",
+      "Jerusalem"
+    ],
+    "tld": [
+      ".ps",
+      "فلسطين."
+    ],
+    "altSpellings": [
+      "PS",
+      "Palestine, State of",
+      "State of Palestine",
+      "Dawlat Filasṭin"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "EGP": {
+        "symbol": "E£",
+        "name": "Egyptian pound"
+      },
+      "ILS": {
+        "symbol": "₪",
+        "name": "Israeli new shekel"
+      },
+      "JOD": {
+        "symbol": "JD",
+        "name": "Jordanian dinar"
+      }
+    },
+    "borders": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ps.png",
+      "svg": "https://flagcdn.com/ps.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ps.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ps.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1703814"
+    },
+    "car": {
+      "signs": [
+        "PS"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "70"
+      ]
+    },
+    "latlng": [
+      31.9,
+      35.2
+    ],
+    "capitalInfo": {
+      "latlng": [
+        31.9,
+        35.2
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Palestinian",
+        "m": "Palestinian"
+      },
+      "fra": {
+        "f": "Palestinienne",
+        "m": "Palestinien"
+      }
+    },
+    "cca2": "PS",
+    "ccn3": "275",
+    "cioc": "PLE",
+    "unMember": false,
+    "startOfWeek": "sunday"
+  },
+  {
+    "name": {
+      "common": "Greenland",
+      "official": "Greenland"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "North America",
+    "area": 2166086.0,
+    "population": 56367,
+    "fifa": null,
+    "capital": [
+      "Nuuk"
+    ],
+    "tld": [
+      ".gl"
+    ],
+    "altSpellings": [
+      "GL",
+      "Grønland"
+    ],
+    "languages": {
+      "kal": "Greenlandic"
+    },
+    "currencies": {
+      "DKK": {
+        "symbol": "kr.",
+        "name": "krone"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/gl.png",
+      "svg": "https://flagcdn.com/gl.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gl.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gl.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2184073"
+    },
+    "car": {
+      "signs": [
+        "DK"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC+00:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "99"
+      ]
+    },
+    "latlng": [
+      72.0,
+      -40.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        64.18,
+        -51.75
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Greenlandic",
+        "m": "Greenlandic"
+      },
+      "fra": {
+        "f": "Groenlandaise",
+        "m": "Groenlandais"
+      }
+    },
+    "cca2": "GL",
+    "ccn3": "304",
+    "cioc": null,
+    "unMember": false,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "United States Minor Outlying Islands",
+      "official": "United States Minor Outlying Islands"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "North America",
+    "area": 34.2,
+    "population": 300,
+    "fifa": null,
+    "capital": [
+      "Washington DC"
+    ],
+    "tld": [
+      ".us"
+    ],
+    "altSpellings": [
+      "UM"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/um.png",
+      "svg": "https://flagcdn.com/um.svg"
+    },
+    "coatOfArms": {},
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/hZKnrzgeK69dDyPF8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/6430384"
+    },
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "68"
+      ]
+    },
+    "latlng": [
+      19.3,
+      166.633333
+    ],
+    "capitalInfo": {
+      "latlng": null
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "American Islander",
+        "m": "American Islander"
+      },
+      "fra": {
+        "f": "",
+        "m": ""
+      }
+    },
+    "cca2": "UM",
+    "ccn3": "581",
+    "cioc": null,
+    "unMember": false,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Equatorial Guinea",
+      "official": "Republic of Equatorial Guinea"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": 28051.0,
+    "population": 1402985,
+    "fifa": "EQG",
+    "capital": [
+      "Malabo"
+    ],
+    "tld": [
+      ".gq"
+    ],
+    "altSpellings": [
+      "GQ",
+      "Republic of Equatorial Guinea",
+      "República de Guinea Ecuatorial",
+      "République de Guinée équatoriale",
+      "República da Guiné Equatorial"
+    ],
+    "languages": {
+      "fra": "French",
+      "por": "Portuguese",
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    },
+    "borders": [
+      "CMR",
+      "GAB"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gq.png",
+      "svg": "https://flagcdn.com/gq.svg",
+      "alt": "The flag of Equatorial Guinea is composed of three equal horizontal bands of green, white and red with the national coat of arms centered in the white band and an isosceles triangle superimposed on the hoist side of the field. The triangle is light blue, has its base on the hoist end and spans about one-fifth the width of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gq.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gq.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192791"
+    },
+    "car": {
+      "signs": [
+        "GQ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "40"
+      ]
+    },
+    "latlng": [
+      2.0,
+      10.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        3.75,
+        8.78
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Equatorial Guinean",
+        "m": "Equatorial Guinean"
+      },
+      "fra": {
+        "f": "Équato-guinéenne",
+        "m": "Équato-guinéen"
+      }
+    },
+    "cca2": "GQ",
+    "ccn3": "226",
+    "cioc": "GEQ",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Guadeloupe",
+      "official": "Guadeloupe"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": 1628.0,
+    "population": 400132,
+    "fifa": null,
+    "capital": [
+      "Basse-Terre"
+    ],
+    "tld": [
+      ".gp"
+    ],
+    "altSpellings": [
+      "GP",
+      "Gwadloup"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "EUR": {
+        "symbol": "€",
+        "name": "Euro"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/gp.png",
+      "svg": "https://flagcdn.com/gp.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gp.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gp.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/7109289"
+    },
+    "car": {
+      "signs": [
+        "F"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "90"
+      ]
+    },
+    "latlng": [
+      16.25,
+      -61.583333
+    ],
+    "capitalInfo": {
+      "latlng": [
+        16.03,
+        -61.73
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^((97|98)\\d{3})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Guadeloupian",
+        "m": "Guadeloupian"
+      },
+      "fra": {
+        "f": "Guadeloupéenne",
+        "m": "Guadeloupéen"
+      }
+    },
+    "cca2": "GP",
+    "ccn3": "312",
+    "cioc": null,
+    "unMember": false,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "official": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": 394.0,
+    "population": 53192,
+    "fifa": null,
+    "capital": [
+      "Jamestown"
+    ],
+    "tld": [
+      ".sh",
+      ".ac"
+    ],
+    "altSpellings": [
+      "Saint Helena",
+      "St. Helena, Ascension and Tristan da Cunha"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GBP": {
+        "symbol": "£",
+        "name": "Pound sterling"
+      },
+      "SHP": {
+        "symbol": "£",
+        "name": "Saint Helena pound"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/sh.png",
+      "svg": "https://flagcdn.com/sh.svg"
+    },
+    "coatOfArms": {},
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iv4VxnPzHkjLCJuc6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/4868269#map=13/-15.9657/-5.7120"
+    },
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "90",
+        "47"
+      ]
+    },
+    "latlng": [
+      -15.95,
+      -5.72
+    ],
+    "capitalInfo": {
+      "latlng": [
+        -15.93,
+        -5.72
+      ]
+    },
+    "postalCode": {
+      "format": "STHL 1ZZ",
+      "regex": "^(STHL1ZZ)$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Saint Helenian",
+        "m": "Saint Helenian"
+      },
+      "fra": {
+        "f": "Sainte-Hélénoise",
+        "m": "Sainte-Hélènois"
+      }
+    },
+    "cca2": "SH",
+    "ccn3": "654",
+    "cioc": null,
+    "unMember": false,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 783562.0,
+    "population": 84339067,
+    "fifa": "TUR",
+    "capital": [
+      "Ankara"
+    ],
+    "tld": [
+      ".tr"
+    ],
+    "altSpellings": [
+      "TR",
+      "Turkiye",
+      "Republic of Turkey",
+      "Türkiye Cumhuriyeti"
+    ],
+    "languages": {
+      "tur": "Turkish"
+    },
+    "currencies": {
+      "TRY": {
+        "symbol": "₺",
+        "name": "Turkish lira"
+      }
+    },
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tr.png",
+      "svg": "https://flagcdn.com/tr.svg",
+      "alt": "The flag of Turkey has a red field bearing a large fly-side facing white crescent and a smaller five-pointed white star placed just outside the crescent opening. The white crescent and star are offset slightly towards the hoist side of center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tr.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/174737"
+    },
+    "car": {
+      "signs": [
+        "TR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Europe",
+      "Asia"
+    ],
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "0"
+      ]
+    },
+    "latlng": [
+      39.0,
+      35.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        39.93,
+        32.87
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Turkish",
+        "m": "Turkish"
+      },
+      "fra": {
+        "f": "Turque",
+        "m": "Turc"
+      }
+    },
+    "cca2": "TR",
+    "ccn3": "792",
+    "cioc": "TUR",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Chad",
+      "official": "Republic of Chad"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": 1284000.0,
+    "population": 16425859,
+    "fifa": "CHA",
+    "capital": [
+      "N'Djamena"
+    ],
+    "tld": [
+      ".td"
+    ],
+    "altSpellings": [
+      "TD",
+      "Tchad",
+      "Republic of Chad",
+      "République du Tchad"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    },
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/td.png",
+      "svg": "https://flagcdn.com/td.svg",
+      "alt": "The flag of Chad is composed of three equal vertical bands of blue, gold and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/td.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/td.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2361304"
+    },
+    "car": {
+      "signs": [
+        "TCH",
+        "TD"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "35"
+      ]
+    },
+    "latlng": [
+      15.0,
+      19.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        12.1,
+        15.03
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Chadian",
+        "m": "Chadian"
+      },
+      "fra": {
+        "f": "Tchadienne",
+        "m": "Tchadien"
+      }
+    },
+    "cca2": "TD",
+    "ccn3": "148",
+    "cioc": "CHA",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Honduras",
+      "official": "Republic of Honduras"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "Central America",
+    "area": 112492.0,
+    "population": 9904608,
+    "fifa": "HON",
+    "capital": [
+      "Tegucigalpa"
+    ],
+    "tld": [
+      ".hn"
+    ],
+    "altSpellings": [
+      "HN",
+      "Republic of Honduras",
+      "República de Honduras"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "HNL": {
+        "symbol": "L",
+        "name": "Honduran lempira"
+      }
+    },
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/hn.png",
+      "svg": "https://flagcdn.com/hn.svg",
+      "alt": "The flag of Honduras is composed of three equal horizontal bands of turquoise, white and turquoise, with five small five-pointed turquoise stars arranged in a quincuncial pattern at the center of the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/hn.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/hn.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287670"
+    },
+    "car": {
+      "signs": [
+        "HN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "04"
+      ]
+    },
+    "latlng": [
+      15.0,
+      -86.5
+    ],
+    "capitalInfo": {
+      "latlng": [
+        14.1,
+        -87.22
+      ]
+    },
+    "postalCode": {
+      "format": "@@####",
+      "regex": "^([A-Z]{2}\\d{4})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Honduran",
+        "m": "Honduran"
+      },
+      "fra": {
+        "f": "Hondurienne",
+        "m": "Hondurien"
+      }
+    },
+    "cca2": "HN",
+    "ccn3": "340",
+    "cioc": "HON",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Austria",
+      "official": "Republic of Austria"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "area": 83871.0,
+    "population": 8917205,
+    "fifa": "AUT",
+    "capital": [
+      "Vienna"
+    ],
+    "tld": [
+      ".at"
+    ],
+    "altSpellings": [
+      "AT",
+      "Osterreich",
+      "Oesterreich"
+    ],
+    "languages": {
+      "deu": "German"
+    },
+    "currencies": {
+      "EUR": {
+        "symbol": "€",
+        "name": "Euro"
+      }
+    },
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/at.png",
+      "svg": "https://flagcdn.com/at.svg",
+      "alt": "The flag of Austria is composed of three equal horizontal bands of red, white and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/at.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/at.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/16239"
+    },
+    "car": {
+      "signs": [
+        "A"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "3"
+      ]
+    },
+    "latlng": [
+      47.33333333,
+      13.33333333
+    ],
+    "capitalInfo": {
+      "latlng": [
+        48.2,
+        16.37
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Austrian",
+        "m": "Austrian"
+      },
+      "fra": {
+        "f": "Autrichienne",
+        "m": "Autrichien"
+      }
+    },
+    "cca2": "AT",
+    "ccn3": "040",
+    "cioc": "AUT",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Romania",
+      "official": "Romania"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": 238391.0,
+    "population": 19286123,
+    "fifa": "ROU",
+    "capital": [
+      "Bucharest"
+    ],
+    "tld": [
+      ".ro"
+    ],
+    "altSpellings": [
+      "RO",
+      "Rumania",
+      "Roumania",
+      "România"
+    ],
+    "languages": {
+      "ron": "Romanian"
+    },
+    "currencies": {
+      "RON": {
+        "symbol": "lei",
+        "name": "Romanian leu"
+      }
+    },
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ro.png",
+      "svg": "https://flagcdn.com/ro.svg",
+      "alt": "The flag of Romania is composed of three equal vertical bands of navy blue, yellow and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ro.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ro.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/90689"
+    },
+    "car": {
+      "signs": [
+        "RO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "idd": {
+      "root": "+4",
+      "suffixes": [
+        "0"
+      ]
+    },
+    "latlng": [
+      46.0,
+      25.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        44.43,
+        26.1
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Romanian",
+        "m": "Romanian"
+      },
+      "fra": {
+        "f": "Roumaine",
+        "m": "Roumain"
+      }
+    },
+    "cca2": "RO",
+    "ccn3": "642",
+    "cioc": "ROU",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Gabon",
+      "official": "Gabonese Republic"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "area": 267668.0,
+    "population": 2225728,
+    "fifa": "GAB",
+    "capital": [
+      "Libreville"
+    ],
+    "tld": [
+      ".ga"
+    ],
+    "altSpellings": [
+      "GA",
+      "Gabonese Republic",
+      "République Gabonaise"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "XAF": {
+        "symbol": "Fr",
+        "name": "Central African CFA franc"
+      }
+    },
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ga.png",
+      "svg": "https://flagcdn.com/ga.svg",
+      "alt": "The flag of Gabon is composed of three equal horizontal bands of green, yellow and blue."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ga.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ga.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192793"
+    },
+    "car": {
+      "signs": [
+        "G"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "41"
+      ]
+    },
+    "latlng": [
+      -1.0,
+      11.75
+    ],
+    "capitalInfo": {
+      "latlng": [
+        0.38,
+        9.45
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Gabonese",
+        "m": "Gabonese"
+      },
+      "fra": {
+        "f": "Gabonaise",
+        "m": "Gabonais"
+      }
+    },
+    "cca2": "GA",
+    "ccn3": "266",
+    "cioc": "GAB",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Namibia",
+      "official": "Republic of Namibia"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "area": 825615.0,
+    "population": 2540916,
+    "fifa": "NAM",
+    "capital": [
+      "Windhoek"
+    ],
+    "tld": [
+      ".na"
+    ],
+    "altSpellings": [
+      "NA",
+      "Namibië",
+      "Republic of Namibia"
+    ],
+    "languages": {
+      "afr": "Afrikaans",
+      "deu": "German",
+      "eng": "English",
+      "her": "Herero",
+      "hgm": "Khoekhoe",
+      "kwn": "Kwangali",
+      "loz": "Lozi",
+      "ndo": "Ndonga",
+      "tsn": "Tswana"
+    },
+    "currencies": {
+      "NAD": {
+        "symbol": "$",
+        "name": "Namibian dollar"
+      },
+      "ZAR": {
+        "symbol": "R",
+        "name": "South African rand"
+      }
+    },
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/na.png",
+      "svg": "https://flagcdn.com/na.svg",
+      "alt": "The flag of Namibia features a white-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. A gold sun with twelve triangular rays is situated on the hoist side of the upper triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/na.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/na.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195266"
+    },
+    "car": {
+      "signs": [
+        "NAM"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "64"
+      ]
+    },
+    "latlng": [
+      -22.0,
+      17.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        -22.57,
+        17.08
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Namibian",
+        "m": "Namibian"
+      },
+      "fra": {
+        "f": "Namibienne",
+        "m": "Namibien"
+      }
+    },
+    "cca2": "NA",
+    "ccn3": "516",
+    "cioc": "NAM",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Rwanda",
+      "official": "Republic of Rwanda"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": 26338.0,
+    "population": 12952209,
+    "fifa": "RWA",
+    "capital": [
+      "Kigali"
+    ],
+    "tld": [
+      ".rw"
+    ],
+    "altSpellings": [
+      "RW",
+      "Republic of Rwanda",
+      "Repubulika y'u Rwanda",
+      "République du Rwanda"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "kin": "Kinyarwanda"
+    },
+    "currencies": {
+      "RWF": {
+        "symbol": "Fr",
+        "name": "Rwandan franc"
+      }
+    },
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/rw.png",
+      "svg": "https://flagcdn.com/rw.svg",
+      "alt": "The flag of Rwanda is composed of three horizontal bands of light blue, yellow and green. The light blue band is twice the height of the other two bands and bears a yellow sun with twenty-four rays on its fly side."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/rw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/rw.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/171496"
+    },
+    "car": {
+      "signs": [
+        "RWA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "50"
+      ]
+    },
+    "latlng": [
+      -2.0,
+      30.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        -1.95,
+        30.05
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Rwandan",
+        "m": "Rwandan"
+      },
+      "fra": {
+        "f": "Rwandaise",
+        "m": "Rwandais"
+      }
+    },
+    "cca2": "RW",
+    "ccn3": "646",
+    "cioc": "RWA",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Saint Vincent and the Grenadines",
+      "official": "Saint Vincent and the Grenadines"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": 389.0,
+    "population": 110947,
+    "fifa": "VIN",
+    "capital": [
+      "Kingstown"
+    ],
+    "tld": [
+      ".vc"
+    ],
+    "altSpellings": [
+      "VC"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "XCD": {
+        "symbol": "$",
+        "name": "Eastern Caribbean dollar"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/vc.png",
+      "svg": "https://flagcdn.com/vc.svg",
+      "alt": "The flag of Saint Vincent and the Grenadines is composed of three vertical bands of blue, gold and green. The gold band is twice as wide as the other two bands and bears three green diamonds arranged to form the letter V at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/vc.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/vc.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/550725"
+    },
+    "car": {
+      "signs": [
+        "WV"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "784"
+      ]
+    },
+    "latlng": [
+      13.25,
+      -61.2
+    ],
+    "capitalInfo": {
+      "latlng": [
+        13.13,
+        -61.22
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Saint Vincentian",
+        "m": "Saint Vincentian"
+      },
+      "fra": {
+        "f": "Vincentaise",
+        "m": "Vincentais"
+      }
+    },
+    "cca2": "VC",
+    "ccn3": "670",
+    "cioc": "VIN",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Bulgaria",
+      "official": "Republic of Bulgaria"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": 110879.0,
+    "population": 6927288,
+    "fifa": "BUL",
+    "capital": [
+      "Sofia"
+    ],
+    "tld": [
+      ".bg"
+    ],
+    "altSpellings": [
+      "BG",
+      "Republic of Bulgaria",
+      "Република България"
+    ],
+    "languages": {
+      "bul": "Bulgarian"
+    },
+    "currencies": {
+      "BGN": {
+        "symbol": "лв",
+        "name": "Bulgarian lev"
+      }
+    },
+    "borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bg.png",
+      "svg": "https://flagcdn.com/bg.svg",
+      "alt": "The flag of Bulgaria is composed of three equal horizontal bands of white, green and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bg.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/186382"
+    },
+    "car": {
+      "signs": [
+        "BG"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "59"
+      ]
+    },
+    "latlng": [
+      43.0,
+      25.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        42.68,
+        23.32
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Bulgarian",
+        "m": "Bulgarian"
+      },
+      "fra": {
+        "f": "Bulgare",
+        "m": "Bulgare"
+      }
+    },
+    "cca2": "BG",
+    "ccn3": "100",
+    "cioc": "BUL",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "South America",
+    "area": 1141748.0,
+    "population": 50882884,
+    "fifa": "COL",
+    "capital": [
+      "Bogotá"
+    ],
+    "tld": [
+      ".co"
+    ],
+    "altSpellings": [
+      "CO",
+      "Republic of Colombia",
+      "República de Colombia"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "COP": {
+        "symbol": "$",
+        "name": "Colombian peso"
+      }
+    },
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/co.png",
+      "svg": "https://flagcdn.com/co.svg",
+      "alt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/co.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/co.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
+    },
+    "car": {
+      "signs": [
+        "CO"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "7"
+      ]
+    },
+    "latlng": [
+      4.0,
+      -72.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        4.71,
+        -74.07
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Colombian",
+        "m": "Colombian"
+      },
+      "fra": {
+        "f": "Colombienne",
+        "m": "Colombien"
+      }
+    },
+    "cca2": "CO",
+    "ccn3": "170",
+    "cioc": "COL",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Suriname",
+      "official": "Republic of Suriname"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "South America",
+    "area": 163820.0,
+    "population": 586634,
+    "fifa": "SUR",
+    "capital": [
+      "Paramaribo"
+    ],
+    "tld": [
+      ".sr"
+    ],
+    "altSpellings": [
+      "SR",
+      "Sarnam",
+      "Sranangron",
+      "Republic of Suriname",
+      "Republiek Suriname"
+    ],
+    "languages": {
+      "nld": "Dutch"
+    },
+    "currencies": {
+      "SRD": {
+        "symbol": "$",
+        "name": "Surinamese dollar"
+      }
+    },
+    "borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sr.png",
+      "svg": "https://flagcdn.com/sr.svg",
+      "alt": "The flag of Suriname is composed of five horizontal bands of green, white, red, white and green in the ratio of 2:1:4:1:2. A large five-pointed yellow star is centered in the red band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sr.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287082"
+    },
+    "car": {
+      "signs": [
+        "SME"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "97"
+      ]
+    },
+    "latlng": [
+      4.0,
+      -56.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        5.83,
+        -55.17
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Surinamer",
+        "m": "Surinamer"
+      },
+      "fra": {
+        "f": "Surinamaise",
+        "m": "Surinamais"
+      }
+    },
+    "cca2": "SR",
+    "ccn3": "740",
+    "cioc": "SUR",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Zimbabwe",
+      "official": "Republic of Zimbabwe"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "area": 390757.0,
+    "population": 14862927,
+    "fifa": "ZIM",
+    "capital": [
+      "Harare"
+    ],
+    "tld": [
+      ".zw"
+    ],
+    "altSpellings": [
+      "ZW",
+      "Republic of Zimbabwe"
+    ],
+    "languages": {
+      "bwg": "Chibarwe",
+      "eng": "English",
+      "kck": "Kalanga",
+      "khi": "Khoisan",
+      "ndc": "Ndau",
+      "nde": "Northern Ndebele",
+      "nya": "Chewa",
+      "sna": "Shona",
+      "sot": "Sotho",
+      "toi": "Tonga",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zib": "Zimbabwean Sign Language"
+    },
+    "currencies": {
+      "ZWL": {
+        "symbol": "$",
+        "name": "Zimbabwean dollar"
+      }
+    },
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/zw.png",
+      "svg": "https://flagcdn.com/zw.svg",
+      "alt": "The flag of Zimbabwe is composed of seven equal horizontal bands of green, yellow, red, black, red, yellow and green, with a white isosceles triangle superimposed on the hoist side of the field. This triangle is edged in black, spans about one-fourth the width of the field and has its base on the hoist end. A yellow Zimbabwe bird superimposed on a five-pointed red star is centered in the triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/zw.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/zw.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/M26BqdwQctqxXS65A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195272"
+    },
+    "car": {
+      "signs": [
+        "ZW"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "63"
+      ]
+    },
+    "latlng": [
+      -20.0,
+      30.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        -17.82,
+        31.03
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Zimbabwean",
+        "m": "Zimbabwean"
+      },
+      "fra": {
+        "f": "Zimbabwéenne",
+        "m": "Zimbabwéen"
+      }
+    },
+    "cca2": "ZW",
+    "ccn3": "716",
+    "cioc": "ZIM",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Venezuela",
+      "official": "Bolivarian Republic of Venezuela"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "South America",
+    "area": 916445.0,
+    "population": 28435943,
+    "fifa": "VEN",
+    "capital": [
+      "Caracas"
+    ],
+    "tld": [
+      ".ve"
+    ],
+    "altSpellings": [
+      "VE",
+      "Bolivarian Republic of Venezuela",
+      "Venezuela, Bolivarian Republic of",
+      "República Bolivariana de Venezuela"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "VES": {
+        "symbol": "Bs.S.",
+        "name": "Venezuelan bolívar soberano"
+      }
+    },
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ve.png",
+      "svg": "https://flagcdn.com/ve.svg",
+      "alt": "The flag of Venezuela is composed of three equal horizontal bands of yellow, blue and red. At the center of the blue band are eight five-pointed white stars arranged in a horizontal arc."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ve.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ve.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/272644"
+    },
+    "car": {
+      "signs": [
+        "YV"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "8"
+      ]
+    },
+    "latlng": [
+      8.0,
+      -66.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        10.48,
+        -66.87
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Venezuelan",
+        "m": "Venezuelan"
+      },
+      "fra": {
+        "f": "Vénézuélienne",
+        "m": "Vénézuélien"
+      }
+    },
+    "cca2": "VE",
+    "ccn3": "862",
+    "cioc": "VEN",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Eswatini",
+      "official": "Kingdom of Eswatini"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "area": 17364.0,
+    "population": 1160164,
+    "fifa": "SWZ",
+    "capital": [
+      "Mbabane"
+    ],
+    "tld": [
+      ".sz"
+    ],
+    "altSpellings": [
+      "SZ",
+      "Swaziland",
+      "weSwatini",
+      "Swatini",
+      "Ngwane",
+      "Kingdom of Eswatini",
+      "Umbuso weSwatini"
+    ],
+    "languages": {
+      "eng": "English",
+      "ssw": "Swazi"
+    },
+    "currencies": {
+      "SZL": {
+        "symbol": "L",
+        "name": "Swazi lilangeni"
+      },
+      "ZAR": {
+        "symbol": "R",
+        "name": "South African rand"
+      }
+    },
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sz.png",
+      "svg": "https://flagcdn.com/sz.svg",
+      "alt": "The flag of Eswatini is composed of three horizontal bands — a large central yellow-edged red band, and a light blue band above and beneath the red band. The red band is three times the height of the blue bands and bears a centered emblem made up of a large black and white Nguni shield covering two spears and a staff decorated with feather tassels, all placed horizontally."
+    },
+    "coatOfArms": {},
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/88210"
+    },
+    "car": {
+      "signs": [
+        "SD"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "68"
+      ]
+    },
+    "latlng": [
+      -26.5,
+      31.5
+    ],
+    "capitalInfo": {
+      "latlng": [
+        -26.32,
+        31.13
+      ]
+    },
+    "postalCode": {
+      "format": "@###",
+      "regex": "^([A-Z]\\d{3})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Swazi",
+        "m": "Swazi"
+      },
+      "fra": {
+        "f": "Swazie",
+        "m": "Swazie"
+      }
+    },
+    "cca2": "SZ",
+    "ccn3": "748",
+    "cioc": "SWZ",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Philippines",
+      "official": "Republic of the Philippines"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "area": 342353.0,
+    "population": 109581085,
+    "fifa": "PHI",
+    "capital": [
+      "Manila"
+    ],
+    "tld": [
+      ".ph"
+    ],
+    "altSpellings": [
+      "PH",
+      "Republic of the Philippines",
+      "Repúblika ng Pilipinas"
+    ],
+    "languages": {
+      "eng": "English",
+      "fil": "Filipino"
+    },
+    "currencies": {
+      "PHP": {
+        "symbol": "₱",
+        "name": "Philippine peso"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/ph.png",
+      "svg": "https://flagcdn.com/ph.svg",
+      "alt": "The flag of Philippines is composed of two equal horizontal bands of blue and red, with a white equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a central golden-yellow sun with eight rays and a five-pointed golden-yellow star at each vertex."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ph.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ph.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/443174"
+    },
+    "car": {
+      "signs": [
+        "RP"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "3"
+      ]
+    },
+    "latlng": [
+      13.0,
+      122.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        14.6,
+        120.97
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Filipino",
+        "m": "Filipino"
+      },
+      "fra": {
+        "f": "Philippine",
+        "m": "Philippin"
+      }
+    },
+    "cca2": "PH",
+    "ccn3": "608",
+    "cioc": "PHI",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Turkmenistan",
+      "official": "Turkmenistan"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "area": 488100.0,
+    "population": 6031187,
+    "fifa": "TKM",
+    "capital": [
+      "Ashgabat"
+    ],
+    "tld": [
+      ".tm"
+    ],
+    "altSpellings": [
+      "TM"
+    ],
+    "languages": {
+      "rus": "Russian",
+      "tuk": "Turkmen"
+    },
+    "currencies": {
+      "TMT": {
+        "symbol": "m",
+        "name": "Turkmenistan manat"
+      }
+    },
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tm.png",
+      "svg": "https://flagcdn.com/tm.svg",
+      "alt": "The flag of Turkmenistan has a green field. It features a red vertical band, bearing five carpet guls stacked above two crossed olive branches, near the hoist end of the field. Just to the fly side of the vertical band near the top edge of the field is a hoist-side facing white crescent and five small five-pointed white stars placed just outside the crescent opening."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tm.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/223026"
+    },
+    "car": {
+      "signs": [
+        "TM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "idd": {
+      "root": "+9",
+      "suffixes": [
+        "93"
+      ]
+    },
+    "latlng": [
+      40.0,
+      60.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        37.95,
+        58.38
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Turkmen",
+        "m": "Turkmen"
+      },
+      "fra": {
+        "f": "Turkmène",
+        "m": "Turkmène"
+      }
+    },
+    "cca2": "TM",
+    "ccn3": "795",
+    "cioc": "TKM",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "area": 2381741.0,
+    "population": 44700000,
+    "fifa": "ALG",
+    "capital": [
+      "Algiers"
+    ],
+    "tld": [
+      ".dz",
+      "الجزائر."
+    ],
+    "altSpellings": [
+      "DZ",
+      "Dzayer",
+      "Algérie"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "DZD": {
+        "symbol": "د.ج",
+        "name": "Algerian dinar"
+      }
+    },
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/dz.png",
+      "svg": "https://flagcdn.com/dz.svg",
+      "alt": "The flag of Algeria features two equal vertical bands of green and white. A five-pointed red star within a fly-side facing red crescent is centered over the two-color boundary."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/dz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/dz.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192756"
+    },
+    "car": {
+      "signs": [
+        "DZ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "13"
+      ]
+    },
+    "latlng": [
+      28.0,
+      3.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        36.75,
+        3.05
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Algerian",
+        "m": "Algerian"
+      },
+      "fra": {
+        "f": "Algérienne",
+        "m": "Algérien"
+      }
+    },
+    "cca2": "DZ",
+    "ccn3": "012",
+    "cioc": "ALG",
+    "unMember": true,
+    "startOfWeek": "sunday"
+  },
+  {
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": 1267000.0,
+    "population": 24206636,
+    "fifa": "NIG",
+    "capital": [
+      "Niamey"
+    ],
+    "tld": [
+      ".ne"
+    ],
+    "altSpellings": [
+      "NE",
+      "Nijar"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "XOF": {
+        "symbol": "Fr",
+        "name": "West African CFA franc"
+      }
+    },
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ne.png",
+      "svg": "https://flagcdn.com/ne.svg",
+      "alt": "The flag of Niger features three equal horizontal bands of orange, white and green, with an orange circle centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ne.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ne.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192786"
+    },
+    "car": {
+      "signs": [
+        "RN"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "27"
+      ]
+    },
+    "latlng": [
+      16.0,
+      8.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        13.52,
+        2.12
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Nigerien",
+        "m": "Nigerien"
+      },
+      "fra": {
+        "f": "Nigérienne",
+        "m": "Nigérien"
+      }
+    },
+    "cca2": "NE",
+    "ccn3": "562",
+    "cioc": "NIG",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Jamaica",
+      "official": "Jamaica"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": 10991.0,
+    "population": 2961161,
+    "fifa": "JAM",
+    "capital": [
+      "Kingston"
+    ],
+    "tld": [
+      ".jm"
+    ],
+    "altSpellings": [
+      "JM"
+    ],
+    "languages": {
+      "eng": "English",
+      "jam": "Jamaican Patois"
+    },
+    "currencies": {
+      "JMD": {
+        "symbol": "$",
+        "name": "Jamaican dollar"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/jm.png",
+      "svg": "https://flagcdn.com/jm.svg",
+      "alt": "The flag of Jamaica is divided by a gold diagonal cross into four alternating triangular areas of green at the top and bottom, and black on the hoist and fly sides"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/jm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/jm.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/555017"
+    },
+    "car": {
+      "signs": [
+        "JA"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "876",
+        "658"
+      ]
+    },
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "capitalInfo": {
+      "latlng": [
+        17.99702,
+        -76.79358
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Jamaican",
+        "m": "Jamaican"
+      },
+      "fra": {
+        "f": "Jamaïcaine",
+        "m": "Jamaïcain"
+      }
+    },
+    "cca2": "JM",
+    "ccn3": "388",
+    "cioc": "JAM",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Armenia",
+      "official": "Republic of Armenia"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "area": 29743.0,
+    "population": 2963234,
+    "fifa": "ARM",
+    "capital": [
+      "Yerevan"
+    ],
+    "tld": [
+      ".am"
+    ],
+    "altSpellings": [
+      "AM",
+      "Hayastan",
+      "Republic of Armenia",
+      "Հայաստանի Հանրապետություն"
+    ],
+    "languages": {
+      "hye": "Armenian"
+    },
+    "currencies": {
+      "AMD": {
+        "symbol": "֏",
+        "name": "Armenian dram"
+      }
+    },
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/am.png",
+      "svg": "https://flagcdn.com/am.svg",
+      "alt": "The flag of Armenia is composed of three equal horizontal bands of red, blue and orange."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/am.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/am.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/364066"
+    },
+    "car": {
+      "signs": [
+        "AM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "74"
+      ]
+    },
+    "latlng": [
+      40.0,
+      45.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        40.17,
+        44.5
+      ]
+    },
+    "postalCode": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Armenian",
+        "m": "Armenian"
+      },
+      "fra": {
+        "f": "Arménienne",
+        "m": "Arménien"
+      }
+    },
+    "cca2": "AM",
+    "ccn3": "051",
+    "cioc": "ARM",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Caribbean Netherlands",
+      "official": "Bonaire, Sint Eustatius and Saba"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": 328.0,
+    "population": 25987,
+    "fifa": null,
+    "capital": [
+      "Kralendijk"
+    ],
+    "tld": [
+      ".bq",
+      ".nl"
+    ],
+    "altSpellings": [
+      "BES islands"
+    ],
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/bq.png",
+      "svg": "https://flagcdn.com/bq.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bq.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bq.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4XVes1P6uEDTz77WA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1216720"
+    },
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "99"
+      ]
+    },
+    "latlng": [
+      12.18,
+      -68.25
+    ],
+    "capitalInfo": {
+      "latlng": [
+        12.14,
+        -68.27
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Dutch",
+        "m": "Dutch"
+      },
+      "fra": {
+        "f": "Néerlandaise",
+        "m": "Néerlandais"
+      }
+    },
+    "cca2": "BQ",
+    "ccn3": "535",
+    "cioc": null,
+    "unMember": false,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Solomon Islands",
+      "official": "Solomon Islands"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "area": 28896.0,
+    "population": 686878,
+    "fifa": "SOL",
+    "capital": [
+      "Honiara"
+    ],
+    "tld": [
+      ".sb"
+    ],
+    "altSpellings": [
+      "SB"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "SBD": {
+        "symbol": "$",
+        "name": "Solomon Islands dollar"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/sb.png",
+      "svg": "https://flagcdn.com/sb.svg",
+      "alt": "The flag of Solomon Islands features a thin yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. Five white five-pointed stars arranged in an X shape are situated on the hoist side of the upper blue triangle."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sb.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sb.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1857436"
+    },
+    "car": {
+      "signs": [
+        "SOL"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+11:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "77"
+      ]
+    },
+    "latlng": [
+      -8.0,
+      159.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        -9.43,
+        159.95
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Solomon Islander",
+        "m": "Solomon Islander"
+      },
+      "fra": {
+        "f": "Salomonienne",
+        "m": "Salomonien"
+      }
+    },
+    "cca2": "SB",
+    "ccn3": "090",
+    "cioc": "SOL",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": 109884.0,
+    "population": 11326616,
+    "fifa": "CUB",
+    "capital": [
+      "Havana"
+    ],
+    "tld": [
+      ".cu"
+    ],
+    "altSpellings": [
+      "CU",
+      "Republic of Cuba",
+      "República de Cuba"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "CUC": {
+        "symbol": "$",
+        "name": "Cuban convertible peso"
+      },
+      "CUP": {
+        "symbol": "$",
+        "name": "Cuban peso"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/cu.png",
+      "svg": "https://flagcdn.com/cu.svg",
+      "alt": "The flag of Cuba is composed of five equal horizontal bands of blue alternating with white and a red equilateral triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a white five-pointed star at its center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cu.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cu.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307833"
+    },
+    "car": {
+      "signs": [
+        "C"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "3"
+      ]
+    },
+    "latlng": [
+      21.5,
+      -80.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        23.12,
+        -82.35
+      ]
+    },
+    "postalCode": {
+      "format": "CP #####",
+      "regex": "^(?:CP)*(\\d{5})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Cuban",
+        "m": "Cuban"
+      },
+      "fra": {
+        "f": "Cubaine",
+        "m": "Cubain"
+      }
+    },
+    "cca2": "CU",
+    "ccn3": "192",
+    "cioc": "CUB",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "French Southern and Antarctic Lands",
+      "official": "Territory of the French Southern and Antarctic Lands"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Antarctic",
+    "subregion": null,
+    "area": 7747.0,
+    "population": 400,
+    "fifa": null,
+    "capital": [
+      "Port-aux-Français"
+    ],
+    "tld": [
+      ".tf"
+    ],
+    "altSpellings": [
+      "TF",
+      "French Southern Territories"
+    ],
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "EUR": {
+        "symbol": "€",
+        "name": "Euro"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/tf.png",
+      "svg": "https://flagcdn.com/tf.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tf.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tf.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6ua6CX1m4w1xF2Em7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2186658"
+    },
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "continents": [
+      "Antarctica"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "62"
+      ]
+    },
+    "latlng": [
+      -49.25,
+      69.167
+    ],
+    "capitalInfo": {
+      "latlng": [
+        48.81,
+        -1.4
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "French",
+        "m": "French"
+      },
+      "fra": {
+        "f": "Française",
+        "m": "Français"
+      }
+    },
+    "cca2": "TF",
+    "ccn3": "260",
+    "cioc": null,
+    "unMember": false,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Åland Islands",
+      "official": "Åland Islands"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "area": 1580.0,
+    "population": 29458,
+    "fifa": null,
+    "capital": [
+      "Mariehamn"
+    ],
+    "tld": [
+      ".ax"
+    ],
+    "altSpellings": [
+      "AX",
+      "Aaland",
+      "Aland",
+      "Ahvenanmaa"
+    ],
+    "languages": {
+      "swe": "Swedish"
+    },
+    "currencies": {
+      "EUR": {
+        "symbol": "€",
+        "name": "Euro"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/ax.png",
+      "svg": "https://flagcdn.com/ax.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ax.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ax.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/ewFb3vYsfUmVCoSb8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1650407"
+    },
+    "car": {
+      "signs": [
+        ""
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "5818"
+      ]
+    },
+    "latlng": [
+      60.116667,
+      19.9
+    ],
+    "capitalInfo": {
+      "latlng": [
+        60.12,
+        19.9
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Ålandish",
+        "m": "Ålandish"
+      },
+      "fra": {
+        "f": "Ålandaise",
+        "m": "Ålandais"
+      }
+    },
+    "cca2": "AX",
+    "ccn3": "248",
+    "cioc": null,
+    "unMember": false,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "United States Virgin Islands",
+      "official": "Virgin Islands of the United States"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": 347.0,
+    "population": 106290,
+    "fifa": "VIR",
+    "capital": [
+      "Charlotte Amalie"
+    ],
+    "tld": [
+      ".vi"
+    ],
+    "altSpellings": [
+      "VI",
+      "Virgin Islands, U.S."
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/vi.png",
+      "svg": "https://flagcdn.com/vi.svg"
+    },
+    "coatOfArms": {},
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mBfreywj8dor6q4m9",
+      "openStreetMaps": "openstreetmap.org/relation/286898"
+    },
+    "car": {
+      "signs": [
+        "USA"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "340"
+      ]
+    },
+    "latlng": [
+      18.35,
+      -64.933333
+    ],
+    "capitalInfo": {
+      "latlng": [
+        18.35,
+        -64.93
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Virgin Islander",
+        "m": "Virgin Islander"
+      },
+      "fra": {
+        "f": "",
+        "m": ""
+      }
+    },
+    "cca2": "VI",
+    "ccn3": "850",
+    "cioc": "ISV",
+    "unMember": false,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Liberia",
+      "official": "Republic of Liberia"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "area": 111369.0,
+    "population": 5057677,
+    "fifa": "LBR",
+    "capital": [
+      "Monrovia"
+    ],
+    "tld": [
+      ".lr"
+    ],
+    "altSpellings": [
+      "LR",
+      "Republic of Liberia"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "LRD": {
+        "symbol": "$",
+        "name": "Liberian dollar"
+      }
+    },
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/lr.png",
+      "svg": "https://flagcdn.com/lr.svg",
+      "alt": "The flag of Liberia is composed of eleven equal horizontal bands of red alternating with white. A blue square bearing a five-pointed white star is superimposed in the canton."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/lr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/lr.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192780"
+    },
+    "car": {
+      "signs": [
+        "LB"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "31"
+      ]
+    },
+    "latlng": [
+      6.5,
+      -9.5
+    ],
+    "capitalInfo": {
+      "latlng": [
+        6.3,
+        -10.8
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Liberian",
+        "m": "Liberian"
+      },
+      "fra": {
+        "f": "Libérienne",
+        "m": "Libérien"
+      }
+    },
+    "cca2": "LR",
+    "ccn3": "430",
+    "cioc": "LBR",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Sudan",
+      "official": "Republic of the Sudan"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "area": 1886068.0,
+    "population": 43849269,
+    "fifa": "SDN",
+    "capital": [
+      "Khartoum"
+    ],
+    "tld": [
+      ".sd"
+    ],
+    "altSpellings": [
+      "SD",
+      "Republic of the Sudan",
+      "Jumhūrīyat as-Sūdān"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English"
+    },
+    "currencies": {
+      "SDG": {
+        "symbol": "ج.س",
+        "name": "Sudanese pound"
+      }
+    },
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sd.png",
+      "svg": "https://flagcdn.com/sd.svg",
+      "alt": "The flag of Sudan is composed of three equal horizontal bands of red, white and black, with a green isosceles triangle superimposed on the hoist side. The green triangle spans about two-fifth the width of the field with its base on the hoist end."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sd.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sd.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192789"
+    },
+    "car": {
+      "signs": [
+        "SUD"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "49"
+      ]
+    },
+    "latlng": [
+      15.0,
+      30.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        15.6,
+        32.53
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Sudanese",
+        "m": "Sudanese"
+      },
+      "fra": {
+        "f": "Soudanaise",
+        "m": "Soudanais"
+      }
+    },
+    "cca2": "SD",
+    "ccn3": "729",
+    "cioc": "SUD",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "British Virgin Islands",
+      "official": "Virgin Islands"
+    },
+    "independent": false,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "area": 151.0,
+    "population": 30237,
+    "fifa": "VGB",
+    "capital": [
+      "Road Town"
+    ],
+    "tld": [
+      ".vg"
+    ],
+    "altSpellings": [
+      "VG",
+      "Virgin Islands, British"
+    ],
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "USD": {
+        "symbol": "$",
+        "name": "United States dollar"
+      }
+    },
+    "borders": null,
+    "flags": {
+      "png": "https://flagcdn.com/w320/vg.png",
+      "svg": "https://flagcdn.com/vg.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/vg.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/vg.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/285454"
+    },
+    "car": {
+      "signs": [
+        "BVI"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "284"
+      ]
+    },
+    "latlng": [
+      18.431383,
+      -64.62305
+    ],
+    "capitalInfo": {
+      "latlng": [
+        18.42,
+        -64.62
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Virgin Islander",
+        "m": "Virgin Islander"
+      },
+      "fra": {
+        "f": "",
+        "m": ""
+      }
+    },
+    "cca2": "VG",
+    "ccn3": "092",
+    "cioc": "IVB",
+    "unMember": false,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Tanzania",
+      "official": "United Republic of Tanzania"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "area": 945087.0,
+    "population": 59734213,
+    "fifa": "TAN",
+    "capital": [
+      "Dodoma"
+    ],
+    "tld": [
+      ".tz"
+    ],
+    "altSpellings": [
+      "TZ",
+      "Tanzania, United Republic of",
+      "United Republic of Tanzania",
+      "Jamhuri ya Muungano wa Tanzania"
+    ],
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "currencies": {
+      "TZS": {
+        "symbol": "Sh",
+        "name": "Tanzanian shilling"
+      }
+    },
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tz.png",
+      "svg": "https://flagcdn.com/tz.svg",
+      "alt": "The flag of Tanzania features a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and light blue triangle respectively."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/tz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/tz.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/195270"
+    },
+    "car": {
+      "signs": [
+        "EAT"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "idd": {
+      "root": "+2",
+      "suffixes": [
+        "55"
+      ]
+    },
+    "latlng": [
+      -6.0,
+      35.0
+    ],
+    "capitalInfo": {
+      "latlng": [
+        -6.16,
+        35.75
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Tanzanian",
+        "m": "Tanzanian"
+      },
+      "fra": {
+        "f": "Tanzanienne",
+        "m": "Tanzanien"
+      }
+    },
+    "cca2": "TZ",
+    "ccn3": "834",
+    "cioc": "TAN",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Croatia",
+      "official": "Republic of Croatia"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "area": 56594.0,
+    "population": 4047200,
+    "fifa": "CRO",
+    "capital": [
+      "Zagreb"
+    ],
+    "tld": [
+      ".hr"
+    ],
+    "altSpellings": [
+      "HR",
+      "Hrvatska",
+      "Republic of Croatia",
+      "Republika Hrvatska"
+    ],
+    "languages": {
+      "hrv": "Croatian"
+    },
+    "currencies": {
+      "EUR": {
+        "symbol": "€",
+        "name": "Euro"
+      }
+    },
+    "borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/hr.png",
+      "svg": "https://flagcdn.com/hr.svg",
+      "alt": "The flag of Croatia is composed of three equal horizontal bands of red, white and blue, with coat of arms of Croatia superimposed in the center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/hr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/hr.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/214885"
+    },
+    "car": {
+      "signs": [
+        "HR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "85"
+      ]
+    },
+    "latlng": [
+      45.16666666,
+      15.5
+    ],
+    "capitalInfo": {
+      "latlng": [
+        45.8,
+        16.0
+      ]
+    },
+    "postalCode": {
+      "format": "HR-#####",
+      "regex": "^(?:HR)*(\\d{5})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Croatian",
+        "m": "Croatian"
+      },
+      "fra": {
+        "f": "Croate",
+        "m": "Croate"
+      }
+    },
+    "cca2": "HR",
+    "ccn3": "191",
+    "cioc": "CRO",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Andorra",
+      "official": "Principality of Andorra"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "area": 468.0,
+    "population": 77265,
+    "fifa": "AND",
+    "capital": [
+      "Andorra la Vella"
+    ],
+    "tld": [
+      ".ad"
+    ],
+    "altSpellings": [
+      "AD",
+      "Principality of Andorra",
+      "Principat d'Andorra"
+    ],
+    "languages": {
+      "cat": "Catalan"
+    },
+    "currencies": {
+      "EUR": {
+        "symbol": "€",
+        "name": "Euro"
+      }
+    },
+    "borders": [
+      "FRA",
+      "ESP"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ad.png",
+      "svg": "https://flagcdn.com/ad.svg",
+      "alt": "The flag of Andorra features three equal vertical bands of blue, yellow and red, with the coat of arms of Andorra centered in the yellow band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ad.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ad.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/9407"
+    },
+    "car": {
+      "signs": [
+        "AND"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "76"
+      ]
+    },
+    "latlng": [
+      42.5,
+      1.5
+    ],
+    "capitalInfo": {
+      "latlng": [
+        42.5,
+        1.52
+      ]
+    },
+    "postalCode": {
+      "format": "AD###",
+      "regex": "^(?:AD)*(\\d{3})$"
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Andorran",
+        "m": "Andorran"
+      },
+      "fra": {
+        "f": "Andorrane",
+        "m": "Andorran"
+      }
+    },
+    "cca2": "AD",
+    "ccn3": "020",
+    "cioc": "AND",
+    "unMember": true,
+    "startOfWeek": "monday"
+  },
+  {
+    "name": {
+      "common": "Belize",
+      "official": "Belize"
+    },
+    "independent": true,
+    "status": "officially-assigned",
+    "region": "Americas",
+    "subregion": "Central America",
+    "area": 22966.0,
+    "population": 397621,
+    "fifa": "BLZ",
+    "capital": [
+      "Belmopan"
+    ],
+    "tld": [
+      ".bz"
+    ],
+    "altSpellings": [
+      "BZ"
+    ],
+    "languages": {
+      "bjz": "Belizean Creole",
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "BZD": {
+        "symbol": "$",
+        "name": "Belize dollar"
+      }
+    },
+    "borders": [
+      "GTM",
+      "MEX"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bz.png",
+      "svg": "https://flagcdn.com/bz.svg",
+      "alt": "The flag of Belize has a royal blue field with a thin red horizontal band at the top and bottom of the field and the national coat of arms in the center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/bz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/bz.svg"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287827"
+    },
+    "car": {
+      "signs": [
+        "BH"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "01"
+      ]
+    },
+    "latlng": [
+      17.25,
+      -88.75
+    ],
+    "capitalInfo": {
+      "latlng": [
+        17.25,
+        -88.77
+      ]
+    },
+    "postalCode": {
+      "format": null,
+      "regex": null
+    },
+    "demonyms": {
+      "eng": {
+        "f": "Belizean",
+        "m": "Belizean"
+      },
+      "fra": {
+        "f": "Bélizienne",
+        "m": "Bélizien"
+      }
+    },
+    "cca2": "BZ",
+    "ccn3": "084",
+    "cioc": "BIZ",
+    "unMember": true,
+    "startOfWeek": "monday"
+  }
+]

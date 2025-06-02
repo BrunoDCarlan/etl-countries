@@ -1,7 +1,9 @@
 package com.mdm_countries.etl.controller;
 
+import com.mdm_countries.etl.dto.ProviderDTO;
 import com.mdm_countries.etl.model.Provider;
 import com.mdm_countries.etl.service.ProviderService;
+import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -35,8 +37,8 @@ public class ProviderController {
 
     // POST /providers
     @PostMapping
-    public ResponseEntity<Provider> createProvider(@RequestBody Provider provider) {
-        Provider created = providerService.createProvider(provider);
+    public ResponseEntity<Provider> createProvider(@Valid @RequestBody ProviderDTO dto) {
+        Provider created = providerService.createProvider(dto);
         return ResponseEntity.ok(created);
     }
 

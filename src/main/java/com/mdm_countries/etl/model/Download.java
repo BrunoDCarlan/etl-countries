@@ -16,14 +16,13 @@ public class Download {
     private Long downloadId;
     
     @ManyToOne
-    @JoinColumn(name = "provider_id")
+    @JoinColumn(name = "provider_id", nullable = false)
     private Provider provider;
 
     private LocalDateTime downloadedAt;
 
     String rawFilePath; 
 
-    
     @PrePersist
     public void onCreate() {
         downloadedAt = LocalDateTime.now();

@@ -2,6 +2,7 @@ CREATE TABLE provider
 (
     provider_id   SERIAL PRIMARY KEY,
     provider_name VARCHAR(255) NOT NULL,
+    provider_url TEXT NOT NULL,
     created_at   TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at   TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );

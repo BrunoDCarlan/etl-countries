@@ -76,7 +76,8 @@ etl/
 ### Exemplo de JSON para cadastrar provider:
 ```json
 {
-  "providerName": "Provider_name"
+  "providerName": "REST Countries",
+  "providerUrl": "https://restcountries.com/v3.1/all"
 }
 ```
 

@@ -1,5 +1,6 @@
 package com.mdm_countries.etl.service;
 
+import com.mdm_countries.etl.dto.ProviderDTO;
 import com.mdm_countries.etl.model.Provider;
 import com.mdm_countries.etl.repository.ProviderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,7 +27,10 @@ public class ProviderService {
         return providerRepository.findById(id);
     }
 
-    public Provider createProvider(Provider provider) {
+    public Provider createProvider(ProviderDTO dto) {
+        Provider provider = new Provider();
+        provider.setProviderName(dto.getProviderName());
+        provider.setProviderUrl(dto.getProviderUrl());
         return providerRepository.save(provider);
     }
 
@@ -44,5 +48,10 @@ public class ProviderService {
             throw new IllegalArgumentException("Provider não encontrado com id: " + id);
         }
         providerRepository.deleteById(id);
+    }
+
+    public Provider getById(Long id) {
+        return providerRepository.findById(id)
+                .orElseThrow(() -> new RuntimeException("Provider not found"));
     }
 }

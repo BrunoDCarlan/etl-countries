@@ -4,6 +4,7 @@ import com.mdm_countries.etl.service.EtlService;
 
 import com.mdm_countries.etl.model.Download;
 
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import java.io.IOException;
 import java.util.List;
@@ -19,8 +20,9 @@ public class EtlController {
     }
 
     @GetMapping("/download/{providerId}")
-    public String downloadFromProvider(@PathVariable Long providerId) throws IOException, InterruptedException {
-        return etlService.downloadAndStoreJsonChunks(providerId);
+    public ResponseEntity<String> downloadFromProvider(@PathVariable Long providerId) throws IOException {
+        String result = etlService.downloadAndStoreJsonChunks(providerId);
+        return ResponseEntity.ok(result);
     }
 
     @GetMapping("/sync/{downloadId}")
